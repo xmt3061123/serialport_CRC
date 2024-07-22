@@ -1,6 +1,7 @@
 # 串口助手（Serial Assistant）
 
 串口助手是一款基于Qt的串口通信工具，旨在提供用户友好的界面来进行串口通信测试和调试。
+![image](https://github.com/user-attachments/assets/cdf4b3be-c57a-4e00-9399-12508171e2fe)
 
 ## 功能特性
 
